@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333597076208",
+    "firebase_url": "https://treciauzduotis-28e86.firebaseio.com",
+    "project_id": "treciauzduotis-28e86",
+    "storage_bucket": "treciauzduotis-28e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333597076208:android:d4fe089895b6b8ad",
+        "android_client_info": {
+          "package_name": "com.example.mantas.treciauzduotis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333597076208-mppm70eo0lf1n1fbov3u1lb20047fec7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mantas.treciauzduotis",
+            "certificate_hash": "616a76555e964ebc38041070c9881909e9dce424"
+          }
+        },
+        {
+          "client_id": "333597076208-e9o4q5vk6r9n470lv14igc9h5bkq9unk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvj4l20EhySswjtr7XlfNqxAXpEnaLTLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333597076208-e9o4q5vk6r9n470lv14igc9h5bkq9unk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
